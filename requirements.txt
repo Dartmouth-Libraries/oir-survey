@@ -1,0 +1,4 @@
+bertopic==0.16.2
+dartmouth_langchain==0.0.7
+pandas==2.2.2
+transformers==4.41.1
